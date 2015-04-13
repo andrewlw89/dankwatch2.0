@@ -1,10 +1,5 @@
 /* your styles go here */
 
-#page1content.content {
-	top: 22%;
-}
-
 #page1 {
-	background: url('../img/dankwatchlogo2.jpg') center center no-repeat;
-	background-color: black;
+	background: url('../img/ringling.jpg') center center no-repeat;
 }

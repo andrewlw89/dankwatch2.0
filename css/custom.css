@@ -3,3 +3,9 @@
 #page1 {
 	background: url('../img/ringling.jpg') center center no-repeat;
 }
+
+.stroke {
+   color: black;
+   -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;

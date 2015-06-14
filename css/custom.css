@@ -1,7 +1,7 @@
 /* your styles go here */
 
 #page1 {
-	background: url('../img/ringling.jpg') center center no-repeat;
+	background: url('../img/28.jpg') center center no-repeat;
 }
 
 .stroke {
@@ -9,3 +9,17 @@
    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
    -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: white;
+}
+
+#links {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+a img {
+	overflow: hidden;
+	width:140px;
+	height: 140px;
+}
+
